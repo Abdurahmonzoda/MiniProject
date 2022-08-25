@@ -1,0 +1,15 @@
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\bin\Debug\net6.0\MainApp.exe
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\bin\Debug\net6.0\MainApp.deps.json
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\bin\Debug\net6.0\MainApp.runtimeconfig.json
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\bin\Debug\net6.0\MainApp.dll
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\bin\Debug\net6.0\MainApp.pdb
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfo.cs
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.dll
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\refint\MainApp.dll
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.pdb
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\MainApp.genruntimeconfig.cache
+C:\Users\ASafa\OneDrive\Desktop\SoftClub\MainApp\obj\Debug\net6.0\ref\MainApp.dll
